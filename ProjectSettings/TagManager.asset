@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Ball
+  - Plank
+  - Enemy
+  - Ground
+  - Bomb
+  - Rocket
+  - Knife
+  - Suriken
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Plank
+  - Water
+  - UI
+  - Enemy
+  - Suriken
+  - Blood
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: New Layer 1
+    uniqueID: 2743175713
+    locked: 0
+  - name: New Layer 2
+    uniqueID: 2215170309
+    locked: 0
+  m_RenderingLayers:
+  - Default
